@@ -35,8 +35,8 @@ metaDataFormat= "yaml"
   img = "img/logo.jpeg"
   img_title = "Universidade Federal Rural de Pernambuco"
   icon = "img/logo.jpeg"
-  quote = "Algorithms dont do a good job of detecting their own flaws. Clay Shirky"
-  description= "Ao término deste curso o aluno será capaz de compreender, implementar e utilizar as principais estuturas de dados e suas diferentes estratégias de organização de informação. <br> O aluno será capaz também de analisar a eficiência de algoritmos do ponto de vista assintótico. Em particular, essa análise tem como pano de fundo algoritmos de ordenação e operações básicas de diferentes estruturas de dados."
+  quote = "Computers are useless. They can only give you answers. Pablo Picasso"
+  description= "Noções iniciais dos componentes básicos de um sistema de computador, assim também como conceitos fundamentais necessários para a manipulação de informação dentro do sistema."
   licenseUrl = ""
 
  # Social icons
