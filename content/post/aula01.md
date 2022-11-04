@@ -2,7 +2,7 @@
 author = "Waldemar Ferreira"
 title = "Boas vindas"
 date = "2019-03-05"
-description = "Boas vindas aos alunos de 2021.2"
+description = "Boas vindas aos alunos de 2022.1"
 +++
 
 ## Sejam bem-vindos,
